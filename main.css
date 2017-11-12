@@ -45,7 +45,6 @@ li{
 }
 .container{
 	position: relative;
-	overflow:hidden;
 	margin: 0 auto;
 	width:1226px;
 	clear: both;
